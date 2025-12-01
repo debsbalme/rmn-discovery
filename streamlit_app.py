@@ -10,7 +10,7 @@ from rmn_analysis import (
     identify_top_maturity_gaps,
     identify_top_maturity_drivers
 )
-from fpdf import FPDF
+
 import base64
 
 def display_breadcrumb(step):
